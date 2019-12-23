@@ -84,7 +84,7 @@
 
 ### Testing
 
-Our trained models are available [here](). Put them under `$SAF_ROOT/data/saf_models`.
+Our trained models are available [here](https://drive.google.com/open?id=1wXstUeiZXQDaMIls_ZsycjhjcsRrOQb4). Put them under `$SAF_ROOT/data/saf_models`.
 
 #### On trainval set (CorLoc)
 
